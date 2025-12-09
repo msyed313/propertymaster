@@ -37,7 +37,7 @@ const Sales: FC<{ category?: 'residential' | 'commercial' }> = ({ category = 're
     recentlyRenovated: false,
     balcony: false,
   });
-  const [properties, setProperties] = useState<Property[]>([
+  const [properties] = useState<Property[]>([
     // Residential Properties for Sale
     {
       id: 1, title: "Modern 2 Bed Apartment", price: "£285,000", type: "FOR SALE",

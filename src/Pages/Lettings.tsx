@@ -36,7 +36,7 @@ const Lettings: FC<{ category?: 'residential' | 'commercial' }> = ({ category = 
     elevator: false,
     balcony: false,
   });
-  const [properties, setProperties] = useState<Property[]>([
+  const [properties] = useState<Property[]>([
     // Residential Properties
     {
       id: 1, title: "Modern 2 Bed Apartment", price: "£1,200 pcm", type: "TO LET",
