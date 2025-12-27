@@ -75,7 +75,7 @@ const Header: FC = () => {
 
       {/* Logo */}
       <div className="font-bold flex items-center">
-        <p className="text-blue-600 text-xl">Property<span className="text-green-600">Masterz</span></p>
+        <p className="text-blue-600 text-xl">Zm<span className="text-green-600">Estates</span></p>
       </div>
 
       {/* Buttons */}

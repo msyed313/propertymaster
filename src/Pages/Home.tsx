@@ -21,13 +21,13 @@ const Home: FC = () => {
           {/* Logo */}
           <div className="mb-6 flex justify-center">
             <div className="bg-gradient-to-r from-blue-600 to-green-600 text-white px-6 py-2 rounded-lg font-bold text-2xl shadow-lg">
-              PM
+              ZM
             </div>
           </div>
 
           {/* Title */}
           <h1 className="text-4xl md:text-5xl font-bold mb-3">
-            Property Masterz UK LTD
+            Zm Estates LTD
           </h1>
 
           {/* Buttons */}

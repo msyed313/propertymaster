@@ -13,7 +13,7 @@ const AboutUs = () => {
         ></div>
         <div className="relative max-w-7xl mx-auto py-24 px-4 sm:py-32 sm:px-6 lg:px-8">
           <h1 className="text-4xl font-bold tracking-tight text-white sm:text-5xl lg:text-6xl">
-            About Property Masterz UK Ltd
+            About Zm Estates Ltd
           </h1>
           <p className="mt-6 text-xl text-gray-300 max-w-3xl">
             Your trusted property partner in East London for over 15 years
@@ -27,11 +27,11 @@ const AboutUs = () => {
         <div className="mb-16">
           <div className="max-w-3xl mx-auto text-center">
             <h2 className="text-3xl font-bold text-gray-900 mb-6">
-              Why Choose Property Masterz?
+              Why Choose Zm Estates?
             </h2>
             <div className="space-y-6 text-lg text-gray-700">
               <p>
-                At Property Masterz UK Ltd., we pride ourselves on being different from 
+                At Zm Estates Ltd., we pride ourselves on being different from 
                 typical estate agents. Our friendly, down-to-earth approach and 
                 genuine commitment to our clients' success is what sets us apart 
                 and keeps clients coming back year after year.

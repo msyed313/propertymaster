@@ -30,9 +30,9 @@ const Footer: FC = () => {
           <div className="space-y-4">
             <div className="flex items-center gap-3 mb-4">
               <div className="bg-blue-600 text-white px-4 py-2 rounded-lg font-bold text-xl">
-                PM
+                Zm
               </div>
-              <h2 className="text-2xl font-bold">Property Masterz</h2>
+              <h2 className="text-2xl font-bold">Estates Ltd</h2>
             </div>
             <p className="text-gray-300">
               Your trusted partner in finding the perfect property. We connect buyers, sellers, landlords, and tenants across the UK.
@@ -165,9 +165,9 @@ const Footer: FC = () => {
                 <div>
                   <p className="text-gray-400 text-sm">Address</p>
                   <p className="text-gray-300">
-                    392 Ilford Lane,<br />
-                    Ilford, Essex,<br />
-                    IG1 2NB
+                    Zm State Ltd,<br />
+                    96-IIford Lane<br />
+                    IG1 2LD
                   </p>
                 </div>
               </div>
@@ -198,7 +198,7 @@ const Footer: FC = () => {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="mb-4 md:mb-0">
               <p className="text-gray-400">
-                © {new Date().getFullYear()} Property Masterz UK LTD. All rights reserved.
+                © {new Date().getFullYear()} Zm Estates LTD. All rights reserved.
               </p>
               <div className="flex gap-4 mt-2 text-sm text-gray-500">
                 <a href="#" className="hover:text-blue-400 transition flex items-center gap-1">
@@ -237,9 +237,9 @@ const Footer: FC = () => {
           <div className="mt-8 pt-6 border-t border-gray-800">
             <div className="text-center">
               <div className="text-6xl font-bold tracking-wider mb-2 bg-gradient-to-r from-blue-600 via-green-500 to-blue-600 bg-clip-text text-transparent">
-                PROPERTY MASTERZ
+                Zm Estates
               </div>
-              <p className="text-gray-500">UK LTD</p>
+              <p className="text-gray-500">LTD</p>
             </div>
           </div>
         </div>
